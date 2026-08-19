@@ -1,0 +1,6 @@
+{
+  "name": "AutoEarn AI - ऑटोमैटिक अर्निंग & विड्रॉल",
+  "description": "एक संपूर्ण ऑटोमैटिक कमाई और रियल-टाइम विड्रॉल (UPI/Paytm/Bank) प्लेटफॉर्म जिसमें AI ऑटो-वर्कर, माइनिंग यील्ड और डेली रिवार्ड्स शामिल हैं।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
